@@ -35,7 +35,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <div className="text-center  h2 title">
-            Monsters-Rolodex: Search the monsters using REACT !!
+            Search Kro: Search using REACT !!
           </div>
           <div className="text-center m-5">
             <SearchBar onChangeHandler={onSearchChange} placeholder='Search' className='username-search-box' />
